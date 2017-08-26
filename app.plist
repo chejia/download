@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ibm.unicom.showrooms</string>
+				<string>com.ibm.unicom.showrooms.</string>
 				<key>bundle-version</key>
 				<string>1.1.1</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>lt</string>
+				<string>中国联通创新体验中心</string>
 			</dict>
 		</dict>
 	</array>
