@@ -11,11 +11,11 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/chejia/download/master/lt.ipa</string>
+					<string>http://raw.githubusercontent.com/chejia/download/master/lt.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>https://raw.githubusercontent.com/chejia/download/master/Icon-76.png</string>
+					<string>http://raw.githubusercontent.com/chejia/download/master/Icon-76.png</string>
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/chejia/download/master/Icon-76.png</string>
+					<string>http://raw.githubusercontent.com/chejia/download/master/Icon-76.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
