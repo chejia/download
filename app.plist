@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ibm.unicom.showrooms</string>
+				<string>com.unicom.showrooms</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
