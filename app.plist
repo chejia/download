@@ -11,11 +11,11 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.101:8080/test.ipa</string>
+					<string>http://192.168.2.89:8080/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>http://192.168.1.101:8080/Icon-76.png</string>
+					<string>http://192.168.2.89:8080/Icon-76.png</string>
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.1.101:8080/Icon-76@2x.png</string>
+					<string>http://192.168.2.89:8080/Icon-76@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
